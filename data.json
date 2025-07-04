@@ -1,0 +1,28 @@
+{
+    "1317827208810860544": {
+        "username": "hectus0016",
+        "castle_level": 1,
+        "gold": 1586,
+        "food": 1506,
+        "troops": 15,
+        "location": "D5",
+        "tutorial_done": true,
+        "gems": 100000,
+        "battles_won": 0,
+        "battles_lost": 0
+    },
+    "1381510207808606248": {
+        "username": "xyzzzzz0771_53249",
+        "castle_level": 1,
+        "gold": 1505,
+        "food": 1527,
+        "troops": 15,
+        "location": "H7",
+        "tutorial_done": true,
+        "gems": 100,
+        "battles_won": 0,
+        "battles_lost": 0,
+        "guild": null,
+        "guild_rank": "R3"
+    }
+}

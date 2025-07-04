@@ -1,0 +1,17 @@
+{
+    "xyz": {
+        "leader": "1317827208810860544",
+        "leader_name": "Hectus",
+        "requirements": {
+            "castle_level": 1,
+            "battles_won": 0
+        },
+        "members": {
+            "1317827208810860544": "Leader",
+            "1381510207808606248": "R3"
+        },
+        "pending_requests": [],
+        "description": "zyz",
+        "image_path": null
+    }
+}
